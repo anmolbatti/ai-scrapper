@@ -1,0 +1,8 @@
+[
+    {
+        "title": "",
+        "price": "",
+        "discount price": "",
+        "listing url": ""
+    }
+]
